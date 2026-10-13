@@ -135,6 +135,10 @@ The dashboard is built using the following data columns:
 3. **Bar Charts**: Revenue by payment method, top customers
 4. **Tables**: Vehicle type performance metrics
 5. **Histograms**: Daily distance distribution patterns
+   ##Files used
+   1power bi file
+   ppt pdf
+   dataset 
 
 
 
